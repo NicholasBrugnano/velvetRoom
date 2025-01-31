@@ -1,0 +1,7 @@
+C:\Users\000875375\Documents\ExpressionEx\ExpressionEx\bin\Debug\ExpressionEx.exe.config
+C:\Users\000875375\Documents\ExpressionEx\ExpressionEx\bin\Debug\ExpressionEx.exe
+C:\Users\000875375\Documents\ExpressionEx\ExpressionEx\bin\Debug\ExpressionEx.pdb
+C:\Users\000875375\Documents\ExpressionEx\ExpressionEx\obj\Debug\ExpressionEx.csproj.AssemblyReference.cache
+C:\Users\000875375\Documents\ExpressionEx\ExpressionEx\obj\Debug\ExpressionEx.csproj.CoreCompileInputs.cache
+C:\Users\000875375\Documents\ExpressionEx\ExpressionEx\obj\Debug\ExpressionEx.exe
+C:\Users\000875375\Documents\ExpressionEx\ExpressionEx\obj\Debug\ExpressionEx.pdb
