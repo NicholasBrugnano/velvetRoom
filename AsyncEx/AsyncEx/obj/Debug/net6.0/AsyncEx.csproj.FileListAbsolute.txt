@@ -1,0 +1,14 @@
+C:\Users\000875375\Downloads\AsyncEx\AsyncEx\bin\Debug\net6.0\AsyncEx.exe
+C:\Users\000875375\Downloads\AsyncEx\AsyncEx\bin\Debug\net6.0\AsyncEx.deps.json
+C:\Users\000875375\Downloads\AsyncEx\AsyncEx\bin\Debug\net6.0\AsyncEx.runtimeconfig.json
+C:\Users\000875375\Downloads\AsyncEx\AsyncEx\bin\Debug\net6.0\AsyncEx.dll
+C:\Users\000875375\Downloads\AsyncEx\AsyncEx\bin\Debug\net6.0\AsyncEx.pdb
+C:\Users\000875375\Downloads\AsyncEx\AsyncEx\obj\Debug\net6.0\AsyncEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\000875375\Downloads\AsyncEx\AsyncEx\obj\Debug\net6.0\AsyncEx.AssemblyInfoInputs.cache
+C:\Users\000875375\Downloads\AsyncEx\AsyncEx\obj\Debug\net6.0\AsyncEx.AssemblyInfo.cs
+C:\Users\000875375\Downloads\AsyncEx\AsyncEx\obj\Debug\net6.0\AsyncEx.csproj.CoreCompileInputs.cache
+C:\Users\000875375\Downloads\AsyncEx\AsyncEx\obj\Debug\net6.0\AsyncEx.dll
+C:\Users\000875375\Downloads\AsyncEx\AsyncEx\obj\Debug\net6.0\refint\AsyncEx.dll
+C:\Users\000875375\Downloads\AsyncEx\AsyncEx\obj\Debug\net6.0\AsyncEx.pdb
+C:\Users\000875375\Downloads\AsyncEx\AsyncEx\obj\Debug\net6.0\AsyncEx.genruntimeconfig.cache
+C:\Users\000875375\Downloads\AsyncEx\AsyncEx\obj\Debug\net6.0\ref\AsyncEx.dll
