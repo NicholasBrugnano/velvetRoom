@@ -8,7 +8,7 @@
 
             DirectoryInfo directoryInfo = new DirectoryInfo(path);
 
-            var files = directoryInfo.GetFiles("*.*", SearchOption.AllDirectories);
+            var files = directoryInfo.GetFiles("*.pdf", SearchOption.AllDirectories);
 
             Console.WriteLine($"{files.Length} files found.");
 
