@@ -1,0 +1,5 @@
+you should never return void in an async method, EXCEPT in an event handler.
+keep synchronous code to a minimum in an async program to ensure you don't block yourself - that's why you write async in the first place!
+end async method names with async - it's just good form. (unless, ofc, it's a method dedicated exclusively to the creation, manipulation, or combination of tasks)
+
+of everything, *await* is what makes a method asynchronous.
