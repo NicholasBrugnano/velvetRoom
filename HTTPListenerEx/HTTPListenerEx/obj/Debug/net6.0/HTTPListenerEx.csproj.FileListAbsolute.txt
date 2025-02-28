@@ -1,0 +1,14 @@
+C:\Users\000875375\Downloads\HTTPListenerEx\HTTPListenerEx\bin\Debug\net6.0\HTTPListenerEx.exe
+C:\Users\000875375\Downloads\HTTPListenerEx\HTTPListenerEx\bin\Debug\net6.0\HTTPListenerEx.deps.json
+C:\Users\000875375\Downloads\HTTPListenerEx\HTTPListenerEx\bin\Debug\net6.0\HTTPListenerEx.runtimeconfig.json
+C:\Users\000875375\Downloads\HTTPListenerEx\HTTPListenerEx\bin\Debug\net6.0\HTTPListenerEx.dll
+C:\Users\000875375\Downloads\HTTPListenerEx\HTTPListenerEx\bin\Debug\net6.0\HTTPListenerEx.pdb
+C:\Users\000875375\Downloads\HTTPListenerEx\HTTPListenerEx\obj\Debug\net6.0\HTTPListenerEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\000875375\Downloads\HTTPListenerEx\HTTPListenerEx\obj\Debug\net6.0\HTTPListenerEx.AssemblyInfoInputs.cache
+C:\Users\000875375\Downloads\HTTPListenerEx\HTTPListenerEx\obj\Debug\net6.0\HTTPListenerEx.AssemblyInfo.cs
+C:\Users\000875375\Downloads\HTTPListenerEx\HTTPListenerEx\obj\Debug\net6.0\HTTPListenerEx.csproj.CoreCompileInputs.cache
+C:\Users\000875375\Downloads\HTTPListenerEx\HTTPListenerEx\obj\Debug\net6.0\HTTPListenerEx.dll
+C:\Users\000875375\Downloads\HTTPListenerEx\HTTPListenerEx\obj\Debug\net6.0\refint\HTTPListenerEx.dll
+C:\Users\000875375\Downloads\HTTPListenerEx\HTTPListenerEx\obj\Debug\net6.0\HTTPListenerEx.pdb
+C:\Users\000875375\Downloads\HTTPListenerEx\HTTPListenerEx\obj\Debug\net6.0\HTTPListenerEx.genruntimeconfig.cache
+C:\Users\000875375\Downloads\HTTPListenerEx\HTTPListenerEx\obj\Debug\net6.0\ref\HTTPListenerEx.dll
