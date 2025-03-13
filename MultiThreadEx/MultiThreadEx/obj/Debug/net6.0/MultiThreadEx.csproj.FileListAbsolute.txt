@@ -1,0 +1,14 @@
+C:\Users\000875375\Downloads\MultiThreadEx\MultiThreadEx\bin\Debug\net6.0\MultiThreadEx.exe
+C:\Users\000875375\Downloads\MultiThreadEx\MultiThreadEx\bin\Debug\net6.0\MultiThreadEx.deps.json
+C:\Users\000875375\Downloads\MultiThreadEx\MultiThreadEx\bin\Debug\net6.0\MultiThreadEx.runtimeconfig.json
+C:\Users\000875375\Downloads\MultiThreadEx\MultiThreadEx\bin\Debug\net6.0\MultiThreadEx.dll
+C:\Users\000875375\Downloads\MultiThreadEx\MultiThreadEx\bin\Debug\net6.0\MultiThreadEx.pdb
+C:\Users\000875375\Downloads\MultiThreadEx\MultiThreadEx\obj\Debug\net6.0\MultiThreadEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\000875375\Downloads\MultiThreadEx\MultiThreadEx\obj\Debug\net6.0\MultiThreadEx.AssemblyInfoInputs.cache
+C:\Users\000875375\Downloads\MultiThreadEx\MultiThreadEx\obj\Debug\net6.0\MultiThreadEx.AssemblyInfo.cs
+C:\Users\000875375\Downloads\MultiThreadEx\MultiThreadEx\obj\Debug\net6.0\MultiThreadEx.csproj.CoreCompileInputs.cache
+C:\Users\000875375\Downloads\MultiThreadEx\MultiThreadEx\obj\Debug\net6.0\MultiThreadEx.dll
+C:\Users\000875375\Downloads\MultiThreadEx\MultiThreadEx\obj\Debug\net6.0\refint\MultiThreadEx.dll
+C:\Users\000875375\Downloads\MultiThreadEx\MultiThreadEx\obj\Debug\net6.0\MultiThreadEx.pdb
+C:\Users\000875375\Downloads\MultiThreadEx\MultiThreadEx\obj\Debug\net6.0\MultiThreadEx.genruntimeconfig.cache
+C:\Users\000875375\Downloads\MultiThreadEx\MultiThreadEx\obj\Debug\net6.0\ref\MultiThreadEx.dll
