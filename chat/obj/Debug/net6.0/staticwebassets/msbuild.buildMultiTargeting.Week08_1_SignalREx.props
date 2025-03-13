@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Week08_1_SignalREx.props" />
+</Project>
