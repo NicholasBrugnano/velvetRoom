@@ -58,12 +58,6 @@ namespace MultiThreadEx
 
             paramThread.Start(5);
             Console.WriteLine($"Param thread state AFTER start: {paramThread.ThreadState}");
-
-            var screamThread = new Thread(DoWork);
-            Console.WriteLine($"Scream Thread state BEFORE start: {screamThread.ThreadState}");
-
-            screamThread.Start(20);
-            Console.WriteLine($"Scream Thread state AFTER start: {screamThread.ThreadState}");
         }
     }
 }
