@@ -1,0 +1,14 @@
+C:\Users\000875375\Downloads\SingletonEx\FactoryEx\bin\Debug\net6.0\FactoryEx.exe
+C:\Users\000875375\Downloads\SingletonEx\FactoryEx\bin\Debug\net6.0\FactoryEx.deps.json
+C:\Users\000875375\Downloads\SingletonEx\FactoryEx\bin\Debug\net6.0\FactoryEx.runtimeconfig.json
+C:\Users\000875375\Downloads\SingletonEx\FactoryEx\bin\Debug\net6.0\FactoryEx.dll
+C:\Users\000875375\Downloads\SingletonEx\FactoryEx\bin\Debug\net6.0\FactoryEx.pdb
+C:\Users\000875375\Downloads\SingletonEx\FactoryEx\obj\Debug\net6.0\FactoryEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\000875375\Downloads\SingletonEx\FactoryEx\obj\Debug\net6.0\FactoryEx.AssemblyInfoInputs.cache
+C:\Users\000875375\Downloads\SingletonEx\FactoryEx\obj\Debug\net6.0\FactoryEx.AssemblyInfo.cs
+C:\Users\000875375\Downloads\SingletonEx\FactoryEx\obj\Debug\net6.0\FactoryEx.csproj.CoreCompileInputs.cache
+C:\Users\000875375\Downloads\SingletonEx\FactoryEx\obj\Debug\net6.0\FactoryEx.dll
+C:\Users\000875375\Downloads\SingletonEx\FactoryEx\obj\Debug\net6.0\refint\FactoryEx.dll
+C:\Users\000875375\Downloads\SingletonEx\FactoryEx\obj\Debug\net6.0\FactoryEx.pdb
+C:\Users\000875375\Downloads\SingletonEx\FactoryEx\obj\Debug\net6.0\FactoryEx.genruntimeconfig.cache
+C:\Users\000875375\Downloads\SingletonEx\FactoryEx\obj\Debug\net6.0\ref\FactoryEx.dll

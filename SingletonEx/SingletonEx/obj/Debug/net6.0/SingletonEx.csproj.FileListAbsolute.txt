@@ -1,0 +1,14 @@
+C:\Users\000875375\Downloads\SingletonEx\SingletonEx\bin\Debug\net6.0\SingletonEx.exe
+C:\Users\000875375\Downloads\SingletonEx\SingletonEx\bin\Debug\net6.0\SingletonEx.deps.json
+C:\Users\000875375\Downloads\SingletonEx\SingletonEx\bin\Debug\net6.0\SingletonEx.runtimeconfig.json
+C:\Users\000875375\Downloads\SingletonEx\SingletonEx\bin\Debug\net6.0\SingletonEx.dll
+C:\Users\000875375\Downloads\SingletonEx\SingletonEx\bin\Debug\net6.0\SingletonEx.pdb
+C:\Users\000875375\Downloads\SingletonEx\SingletonEx\obj\Debug\net6.0\SingletonEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\000875375\Downloads\SingletonEx\SingletonEx\obj\Debug\net6.0\SingletonEx.AssemblyInfoInputs.cache
+C:\Users\000875375\Downloads\SingletonEx\SingletonEx\obj\Debug\net6.0\SingletonEx.AssemblyInfo.cs
+C:\Users\000875375\Downloads\SingletonEx\SingletonEx\obj\Debug\net6.0\SingletonEx.csproj.CoreCompileInputs.cache
+C:\Users\000875375\Downloads\SingletonEx\SingletonEx\obj\Debug\net6.0\SingletonEx.dll
+C:\Users\000875375\Downloads\SingletonEx\SingletonEx\obj\Debug\net6.0\refint\SingletonEx.dll
+C:\Users\000875375\Downloads\SingletonEx\SingletonEx\obj\Debug\net6.0\SingletonEx.pdb
+C:\Users\000875375\Downloads\SingletonEx\SingletonEx\obj\Debug\net6.0\SingletonEx.genruntimeconfig.cache
+C:\Users\000875375\Downloads\SingletonEx\SingletonEx\obj\Debug\net6.0\ref\SingletonEx.dll

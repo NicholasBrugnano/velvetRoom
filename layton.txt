@@ -1,0 +1,11 @@
+the 3+5=4 puzzle:
+
+b3	b5	operation
+0	0	start
+0	5	fill b5
+3	2	pour b5 into b3
+0	2	empty out b3
+2	0	pour b5 into b3
+2	5	fill b5
+3	4	pour b5 into b3
+0	4	empty b3 and claim picarats
