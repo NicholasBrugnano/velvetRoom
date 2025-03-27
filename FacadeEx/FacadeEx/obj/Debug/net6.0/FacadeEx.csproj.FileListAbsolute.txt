@@ -1,0 +1,14 @@
+C:\Users\000875375\Downloads\FacadeEx\FacadeEx\bin\Debug\net6.0\FacadeEx.exe
+C:\Users\000875375\Downloads\FacadeEx\FacadeEx\bin\Debug\net6.0\FacadeEx.deps.json
+C:\Users\000875375\Downloads\FacadeEx\FacadeEx\bin\Debug\net6.0\FacadeEx.runtimeconfig.json
+C:\Users\000875375\Downloads\FacadeEx\FacadeEx\bin\Debug\net6.0\FacadeEx.dll
+C:\Users\000875375\Downloads\FacadeEx\FacadeEx\bin\Debug\net6.0\FacadeEx.pdb
+C:\Users\000875375\Downloads\FacadeEx\FacadeEx\obj\Debug\net6.0\FacadeEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\000875375\Downloads\FacadeEx\FacadeEx\obj\Debug\net6.0\FacadeEx.AssemblyInfoInputs.cache
+C:\Users\000875375\Downloads\FacadeEx\FacadeEx\obj\Debug\net6.0\FacadeEx.AssemblyInfo.cs
+C:\Users\000875375\Downloads\FacadeEx\FacadeEx\obj\Debug\net6.0\FacadeEx.csproj.CoreCompileInputs.cache
+C:\Users\000875375\Downloads\FacadeEx\FacadeEx\obj\Debug\net6.0\FacadeEx.dll
+C:\Users\000875375\Downloads\FacadeEx\FacadeEx\obj\Debug\net6.0\refint\FacadeEx.dll
+C:\Users\000875375\Downloads\FacadeEx\FacadeEx\obj\Debug\net6.0\FacadeEx.pdb
+C:\Users\000875375\Downloads\FacadeEx\FacadeEx\obj\Debug\net6.0\FacadeEx.genruntimeconfig.cache
+C:\Users\000875375\Downloads\FacadeEx\FacadeEx\obj\Debug\net6.0\ref\FacadeEx.dll
