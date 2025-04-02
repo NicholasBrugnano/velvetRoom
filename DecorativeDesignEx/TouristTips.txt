@@ -1,0 +1,13 @@
+ok why wasnt i taking notes the rest of the time???
+
+Decorative Design Patterns
+They're like a Russian nesting doll.
+I have no idea how it actually works but it does, that's good, amen.
+Useful when:
+•You have a shitton of classes
+•You have a bunch of similar types - not the same, but very similar nonetheless.
+--We were already doing this with inheritance, but this could result in a new class just for one more variable.
+There was a weird metaphor about ice cream - even if there's four flavours, there's still a ton of combinations - vanilla, vanilla and chocolate chips, vanilla chocolate chips in a cone vs. a cup, etc, etc
+
+Concurrency Design Patterns
+These patterns are best for asynchronous design.
