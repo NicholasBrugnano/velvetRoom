@@ -1,0 +1,14 @@
+C:\Users\000875375\Downloads\DecorativeDesignEx\MontiorAndConcurrencyEx\bin\Debug\net6.0\MontiorAndConcurrencyEx.exe
+C:\Users\000875375\Downloads\DecorativeDesignEx\MontiorAndConcurrencyEx\bin\Debug\net6.0\MontiorAndConcurrencyEx.deps.json
+C:\Users\000875375\Downloads\DecorativeDesignEx\MontiorAndConcurrencyEx\bin\Debug\net6.0\MontiorAndConcurrencyEx.runtimeconfig.json
+C:\Users\000875375\Downloads\DecorativeDesignEx\MontiorAndConcurrencyEx\bin\Debug\net6.0\MontiorAndConcurrencyEx.dll
+C:\Users\000875375\Downloads\DecorativeDesignEx\MontiorAndConcurrencyEx\bin\Debug\net6.0\MontiorAndConcurrencyEx.pdb
+C:\Users\000875375\Downloads\DecorativeDesignEx\MontiorAndConcurrencyEx\obj\Debug\net6.0\MontiorAndConcurrencyEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\000875375\Downloads\DecorativeDesignEx\MontiorAndConcurrencyEx\obj\Debug\net6.0\MontiorAndConcurrencyEx.AssemblyInfoInputs.cache
+C:\Users\000875375\Downloads\DecorativeDesignEx\MontiorAndConcurrencyEx\obj\Debug\net6.0\MontiorAndConcurrencyEx.AssemblyInfo.cs
+C:\Users\000875375\Downloads\DecorativeDesignEx\MontiorAndConcurrencyEx\obj\Debug\net6.0\MontiorAndConcurrencyEx.csproj.CoreCompileInputs.cache
+C:\Users\000875375\Downloads\DecorativeDesignEx\MontiorAndConcurrencyEx\obj\Debug\net6.0\MontiorAndConcurrencyEx.dll
+C:\Users\000875375\Downloads\DecorativeDesignEx\MontiorAndConcurrencyEx\obj\Debug\net6.0\refint\MontiorAndConcurrencyEx.dll
+C:\Users\000875375\Downloads\DecorativeDesignEx\MontiorAndConcurrencyEx\obj\Debug\net6.0\MontiorAndConcurrencyEx.pdb
+C:\Users\000875375\Downloads\DecorativeDesignEx\MontiorAndConcurrencyEx\obj\Debug\net6.0\MontiorAndConcurrencyEx.genruntimeconfig.cache
+C:\Users\000875375\Downloads\DecorativeDesignEx\MontiorAndConcurrencyEx\obj\Debug\net6.0\ref\MontiorAndConcurrencyEx.dll

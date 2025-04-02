@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecorativeDesignEx", "DecorativeDesignEx\DecorativeDesignEx.csproj", "{5D77F816-0A86-47BA-B0B2-C28AA4AAA5A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MontiorAndConcurrencyEx", "MontiorAndConcurrencyEx\MontiorAndConcurrencyEx.csproj", "{C7A5128B-A60C-4918-9C92-EAA03D50E301}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5D77F816-0A86-47BA-B0B2-C28AA4AAA5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D77F816-0A86-47BA-B0B2-C28AA4AAA5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D77F816-0A86-47BA-B0B2-C28AA4AAA5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7A5128B-A60C-4918-9C92-EAA03D50E301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7A5128B-A60C-4918-9C92-EAA03D50E301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7A5128B-A60C-4918-9C92-EAA03D50E301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7A5128B-A60C-4918-9C92-EAA03D50E301}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
