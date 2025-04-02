@@ -1,0 +1,14 @@
+C:\Users\000875375\Downloads\DecorativeDesignEx\DecorativeDesignEx\bin\Debug\net6.0\DecorativeDesignEx.exe
+C:\Users\000875375\Downloads\DecorativeDesignEx\DecorativeDesignEx\bin\Debug\net6.0\DecorativeDesignEx.deps.json
+C:\Users\000875375\Downloads\DecorativeDesignEx\DecorativeDesignEx\bin\Debug\net6.0\DecorativeDesignEx.runtimeconfig.json
+C:\Users\000875375\Downloads\DecorativeDesignEx\DecorativeDesignEx\bin\Debug\net6.0\DecorativeDesignEx.dll
+C:\Users\000875375\Downloads\DecorativeDesignEx\DecorativeDesignEx\bin\Debug\net6.0\DecorativeDesignEx.pdb
+C:\Users\000875375\Downloads\DecorativeDesignEx\DecorativeDesignEx\obj\Debug\net6.0\DecorativeDesignEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\000875375\Downloads\DecorativeDesignEx\DecorativeDesignEx\obj\Debug\net6.0\DecorativeDesignEx.AssemblyInfoInputs.cache
+C:\Users\000875375\Downloads\DecorativeDesignEx\DecorativeDesignEx\obj\Debug\net6.0\DecorativeDesignEx.AssemblyInfo.cs
+C:\Users\000875375\Downloads\DecorativeDesignEx\DecorativeDesignEx\obj\Debug\net6.0\DecorativeDesignEx.csproj.CoreCompileInputs.cache
+C:\Users\000875375\Downloads\DecorativeDesignEx\DecorativeDesignEx\obj\Debug\net6.0\DecorativeDesignEx.dll
+C:\Users\000875375\Downloads\DecorativeDesignEx\DecorativeDesignEx\obj\Debug\net6.0\refint\DecorativeDesignEx.dll
+C:\Users\000875375\Downloads\DecorativeDesignEx\DecorativeDesignEx\obj\Debug\net6.0\DecorativeDesignEx.pdb
+C:\Users\000875375\Downloads\DecorativeDesignEx\DecorativeDesignEx\obj\Debug\net6.0\DecorativeDesignEx.genruntimeconfig.cache
+C:\Users\000875375\Downloads\DecorativeDesignEx\DecorativeDesignEx\obj\Debug\net6.0\ref\DecorativeDesignEx.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecorativeDesignEx", "DecorativeDesignEx\DecorativeDesignEx.csproj", "{5D77F816-0A86-47BA-B0B2-C28AA4AAA5A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D77F816-0A86-47BA-B0B2-C28AA4AAA5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D77F816-0A86-47BA-B0B2-C28AA4AAA5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D77F816-0A86-47BA-B0B2-C28AA4AAA5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D77F816-0A86-47BA-B0B2-C28AA4AAA5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF7C57D2-968C-4DFF-AD86-1C5CB3D962EC}
+	EndGlobalSection
+EndGlobal
