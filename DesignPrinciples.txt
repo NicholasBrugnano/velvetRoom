@@ -1,0 +1,39 @@
+Design Principles:
+They're another layer of abstraction up from Design Patterns.
+Like all things, these aren't strictly necessary - they're just handy tools to have in your toolbox.
+
+Design patterns are typically discovered instead of invented.
+It's about how you can write code that's easier to maintain - Design Principles are more general than Design Patterns.
+
+They're more of guidelines than anything. Some design principles tend to conflict with each other - the skill is knowing which principles apply where, and how hard you should adhere to them.
+It's like a range between "Follow it like gospel" and "Ignore it completely".
+
+DRY Pattern
+"Do not Repeat Yourself".
+Avoid copy-pasting code from project to project. If that happens, you're gonna have to go through each component one-by-one to make a fix.
+The best way to not have to deal with this is to turn your code into a library.
+DRY has the downside if making it take more time to refactor.
+DRY suggests the Rule of Three: If you copy code more than once, you should just refactor; three copies means more than three copies.
+
+YAGNI Pattern
+"You Aren't Gonna Need It"
+The "writing by the seat of your pants" of code - only implement functionality as you need it.
+
+Law of Demeter
+A.k.a. Rule of Least Knowledge
+Each code unit should only know a little about other units, reducing their coupling and making it easier to maintain.
+
+SOLID Principles:
+•Single Responsibility
+•Open-Closed - Classes should be open for extension, but closed for modification - think NES/SNES expansion chips.
+•Liskov Substitution - Objects can be replaced by their subtypes - the relationship therein is both syntactic and semantic. 
+•Interface segregation - Split one large interface into multiple small interfaces.
+•Dependency Inversion - ...I wasn't paying attention... Blast my inextant attention span.
+
+As an aside, it will never not be funny that each term had a Java and a Python so far.
+Term	Python		Java
+1	OG Python	N/A
+2	Javascript	Java
+3	More JS		Testing Java
+4	AI Slopping	Data Structures
+5	The OG returns	Evil Phone Java
